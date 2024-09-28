@@ -1,6 +1,5 @@
 passage/csv
-passage/pcap
 presence/csv
-presence/pcap
 activity-recognition/dataset/
 activity-recognition/models/
+activity-recognition/results/

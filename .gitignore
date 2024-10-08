@@ -3,3 +3,5 @@ presence/csv
 activity-recognition/dataset/
 activity-recognition/models/
 activity-recognition/results/
+activity-recognition/results_csv/
+activity-recognition/dumps/

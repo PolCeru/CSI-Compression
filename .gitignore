@@ -4,4 +4,5 @@ activity-recognition/dataset/
 activity-recognition/models/
 activity-recognition/results/
 activity-recognition/results_csv/
+activity-recognition/results_graphs/
 activity-recognition/dumps/

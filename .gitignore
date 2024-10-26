@@ -1,5 +1,11 @@
-passage/csv
-presence/csv
+passage/datasets
+passage/results
+passage/results_csv
+passage/results_graphs
+presence/datasets
+presence/results
+presence/results_csv
+presence/results_graphs
 activity-recognition/dataset/
 activity-recognition/models/
 activity-recognition/results/

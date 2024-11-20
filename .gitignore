@@ -1,14 +1,10 @@
-passage/datasets
-passage/results
-passage/results_csv
-passage/results_graphs
-presence/datasets
-presence/results
-presence/results_csv
-presence/results_graphs
-activity-recognition/dataset/
-activity-recognition/models/
-activity-recognition/results/
-activity-recognition/results_csv/
-activity-recognition/results_graphs/
-activity-recognition/dumps/
+# Ignore dumps, results, CSVs, and graphs
+**/results/
+**/results_csv/
+**/results_graphs/
+**/models/
+**/dumps/
+
+# Ignore datasets
+**/datasets/
+**/dataset/

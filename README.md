@@ -1,0 +1,1 @@
+full repository with datasets can be found [here](https://polimi365-my.sharepoint.com/:f:/g/personal/10723902_polimi_it/EuEpTp6vcP5MljX-AV6fSU4BUeo6-A3g7HffgCWj-wndZQ?e=KviqNd). no vsc, might be bugged. 
